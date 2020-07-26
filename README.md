@@ -2,7 +2,7 @@
 
 <a href="https://www.visualcv.com/cedricchee/#portfolio" target="_blank">
 <img 
-    src="./media/portfolio.png"
+    src="https://github.com/cedrickchee/cedrickchee/raw/master/media/portfolio.png"
     alt="My portfolio"
     align="right"
     width="380px" />
