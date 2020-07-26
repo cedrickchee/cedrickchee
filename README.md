@@ -6,11 +6,6 @@
     alt="My portfolio"
     align="right"
     width="380px" />
-<img 
-    src="https://github.com/cedrickchee/cedrickchee/raw/master/media/portfolio_second.png"
-    alt="My portfolio"
-    align="right"
-    width="380px" />
 </a>
 
 I **make people's lives easier with software**.
