@@ -23,6 +23,7 @@ I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **ment
 
 <summary>See more...</summary>
 
+- [Twit](https://github.com/cedrickchee/twit), a realtime app, built using React.js, Node.js, Websocket, and friends.
 - [e-Mart](https://github.com/cedrickchee/e-mart), a full stack React online mart app
 - [tdd-node-pg-knex](https://github.com/cedrickchee/tdd-node-pg-knex), TDD with Node.js and SQL
 - [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), a curated list of NLP resources
@@ -39,7 +40,7 @@ I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **ment
 
 💬 **Ask me:** web development, "boring" technology :smile:, etc.
 
-💼 I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/) ([CV](https://www.visualcv.com/cedricchee)).
+💼 I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/).
 
 ⚡ **Fun fact:** The highest I've ever been — climbed [Mount Kinabalu](https://en.wikipedia.org/wiki/Mount_Kinabalu) in one day.
 
