@@ -34,6 +34,7 @@ I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **ment
 - [data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks), a Data Science Python notebooks
 - [capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch), a Capsule Network for PyTorch
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
+- [tch-js](https://github.com/cedrickchee/tch-js), a JS port of PyTorch C++ library
 </details>
 
 🌱 **Learning:** writing, communication skills, and meditation.
