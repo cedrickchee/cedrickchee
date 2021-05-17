@@ -61,6 +61,14 @@ I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **ment
     width="400px"
     height="160px" />
 
+<details>
+
+<summary>My GitHub story in 3D</summary>
+
+https://user-images.githubusercontent.com/145605/118441697-243ee100-b71c-11eb-875a-d59fca1878f8.mp4
+
+</details>
+
 ![Profile views](https://gpvc.arturio.dev/cedrickchee)
 <a href="https://twitter.com/intent/follow?screen_name=cedric_chee&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cedric_chee?label=follow%20me&style=social"></a>
 
