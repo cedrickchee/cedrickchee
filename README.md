@@ -10,7 +10,7 @@
 
 I **make people's lives easier with software**.
 
-I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **mentor** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. 👉
+I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technologist**, and **mentor** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. 👉
 
 🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
@@ -39,7 +39,7 @@ I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **ment
 
 🌱 **Learning:** writing, communication skills, and meditation.
 
-💬 **Ask me:** web development, "boring" technology :smile:, etc.
+💬 **Ask me:** web development, ["boring" technology](http://boringtechnology.club/) :smile:, etc.
 
 💼 I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/).
 
@@ -49,10 +49,11 @@ I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **ment
 
 <summary>See skills</summary>
 
-- Frontend: JavaScript, ES6, TypeScript, React, Jest, Webpack
-- Backend: Node.js, Go, Express, SQL, MongoDB, Redis, container, Kafka, Elasticsearch
-- Cloud computing: AWS, Google Cloud
-- CI/CD: CircleCI
+- Frontend: JavaScript, ES6, TypeScript, React, Next.js, Jest, Webpack, Vite, esbuild
+- Backend: Node.js, Go, Express, SQL, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch
+- Platform (Cloud): AWS, Google Cloud
+- Infra: Container, Kubernetes for application developer, Serverless applications/functions, Knative, FaaS
+- CI/CD: GitHub Actions, CircleCI, GitOps
 </details>
 
 <img 
