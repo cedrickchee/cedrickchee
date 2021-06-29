@@ -23,7 +23,7 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 
 <summary>See more...</summary>
 
-- [Twit](https://github.com/cedrickchee/twit), a realtime app, built using React.js, Node.js, Websocket, and friends.
+- [Twit](https://github.com/cedrickchee/twit), a realtime app, built using React.js, Node.js, Websocket, and friends
 - [e-Mart](https://github.com/cedrickchee/e-mart), a full stack React online mart app
 - [tdd-node-pg-knex](https://github.com/cedrickchee/tdd-node-pg-knex), TDD with Node.js and SQL
 - [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), a curated list of NLP resources
@@ -35,6 +35,7 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 - [capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch), a Capsule Network for PyTorch
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
 - [tch-js](https://github.com/cedrickchee/tch-js), a JS port of PyTorch C++ library
+- [awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard), a curated list of WireGuard resources
 </details>
 
 🌱 **Learning:** writing, communication skills, and meditation.
