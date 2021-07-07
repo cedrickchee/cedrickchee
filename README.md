@@ -36,6 +36,7 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
 - [tch-js](https://github.com/cedrickchee/tch-js), a JS port of PyTorch C++ library
 - [awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard), a curated list of WireGuard resources
+- [awesome-rust](https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c), a collection of resources that I refer to when I started learning Rust in 2019
 </details>
 
 🌱 **Learning:** writing, communication skills, and meditation.
@@ -55,6 +56,7 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 - Platform (Cloud): AWS, Google Cloud
 - Infra: Container, [Kubernetes for application developer](https://gist.github.com/cedrickchee/da71414b7b04b2550a63ddd6b07289ee), Serverless applications/functions, Knative, FaaS
 - CI/CD: GitHub Actions, CircleCI, GitOps
+- Systems: [Rust](https://github.com/cedrickchee?tab=repositories&q=&type=source&language=rust&sort=stargazers)
 </details>
 
 <img 
