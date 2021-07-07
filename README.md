@@ -50,10 +50,10 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 
 <summary>See skills</summary>
 
-- Frontend: JavaScript, ES6, [TypeScript](https://github.com/cedrickchee/react-typescript-jest-enzyme-testing), React, Next.js, Jest, Webpack, Vite, esbuild
-- Backend: Node.js, [Go](https://github.com/cedrickchee/YDKGo), Express, SQL, [PostgreSQL](https://github.com/cedrickchee/tdd-node-pg-knex), MongoDB, Redis, [Kafka](https://gist.github.com/cedrickchee/999c321daee6534b8ea4b9c4bff8da4e), [Elasticsearch](https://gist.github.com/cedrickchee/265e37c3087413b7780f6a9553a9aed7)
+- Frontend: [JavaScript](https://github.com/cedrickchee?tab=repositories&q=&type=source&language=javascript&sort=stargazers), [ES6](https://github.com/cedrickchee?tab=repositories&q=es6&type=source&language=&sort=stargazers), [TypeScript](https://github.com/cedrickchee?tab=repositories&q=&type=source&language=typescript&sort=stargazers), [React](https://github.com/cedrickchee?tab=repositories&q=reactjs&type=source&language=&sort=stargazers), [Next.js](https://github.com/cedrickchee?tab=repositories&q=nextjs&type=source&language=&sort=stargazers), Jest, Webpack, Vite, esbuild
+- Backend: [Node.js](https://github.com/cedrickchee?tab=repositories&q=node&type=source&language=&sort=stargazers), [Go](https://github.com/cedrickchee?tab=repositories&q=&type=source&language=go&sort=stargazers), [Express](https://github.com/cedrickchee?tab=repositories&q=expressjs&type=source&language=&sort=stargazers), SQL, [PostgreSQL](https://github.com/cedrickchee/tdd-node-pg-knex), [MongoDB](https://github.com/cedrickchee?tab=repositories&q=mongodb&type=source&language=&sort=stargazers), Redis, [Kafka](https://gist.github.com/cedrickchee/999c321daee6534b8ea4b9c4bff8da4e), [Elasticsearch](https://gist.github.com/cedrickchee/265e37c3087413b7780f6a9553a9aed7), [NestJS](https://github.com/cedrickchee?tab=repositories&q=nestjs&type=source&language=&sort=)
 - Platform (Cloud): AWS, Google Cloud
-- Infra: Container, Kubernetes for application developer, Serverless applications/functions, Knative, FaaS
+- Infra: Container, [Kubernetes for application developer](https://gist.github.com/cedrickchee/da71414b7b04b2550a63ddd6b07289ee), Serverless applications/functions, Knative, FaaS
 - CI/CD: GitHub Actions, CircleCI, GitOps
 </details>
 
