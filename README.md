@@ -39,7 +39,7 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 - [awesome-rust](https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c), a collection of resources that I refer to when I started learning Rust in 2019
 </details>
 
-🌱 **Learning:** writing, communication skills, and meditation.
+🌱 **Learning:** writing, communication skills, [Computer Science](https://teachyourselfcs.com/), and meditation.
 
 💬 **Ask me:** web development, ["boring" technology](http://boringtechnology.club/) :smile:, etc.
 
