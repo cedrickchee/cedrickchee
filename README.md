@@ -13,11 +13,13 @@ I **make people's lives easier with software**.
 I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technologist**, and **mentor** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. 👉
 
 🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
+- [Skel](https://github.com/cedrickchee/skel), a starter kit for developing web backends in Go
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
-- [neoCargo](https://github.com/cedrickchee/neoCargo), a microservices prototype
+- [MinTorrent](https://github.com/cedrickchee/min-torrent), a minimalistic, zero dependency torrent client, written in Go
 - [SaaS-starter](https://github.com/cedrickchee/saas-starter), a complex full stack React.js starter kit for SaaS development
 - [RNNoise](https://github.com/cedrickchee/rnnoise-nodejs), a Node.js library for audio noise reduction
 - [painless-pg-node](https://github.com/cedrickchee/painless-pg-node), a boilerplate for painless PostgreSQL Node.js backend with Objection.js
+- [go-web-services](https://github.com/cedrickchee/go-web-services), a production-level Go web service boilerplate
 
 <details>
 
@@ -28,7 +30,6 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 - [tdd-node-pg-knex](https://github.com/cedrickchee/tdd-node-pg-knex), TDD with Node.js and SQL
 - [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), a curated list of NLP resources
 - [YDKGo](https://ydkgo.netlify.app/), a book I wrote on advanced Go programming
-- [MinTorrent](https://github.com/cedrickchee/min-torrent), a minimalistic, zero dependency torrent client, written in Go
 - [Knowledge](https://github.com/cedrickchee/knowledge), my second "brain", digital garden, wiki
 - [experiments](https://github.com/cedrickchee/experiments), a collection of code snippets
 - [data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks), a Data Science Python notebooks
@@ -37,6 +38,14 @@ I'm a **full stack engineer (backend focused)**, **ex-entrepreneur**, **technolo
 - [tch-js](https://github.com/cedrickchee/tch-js), a JS port of PyTorch C++ library
 - [awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard), a curated list of WireGuard resources
 - [awesome-rust](https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c), a collection of resources that I refer to when I started learning Rust in 2019
+- [neoCargo](https://github.com/cedrickchee/neoCargo), a microservices prototype
+- [99bottles](https://github.com/cedrickchee/99bottles-ruby), my code for 99 Bottles of OOP exercises
+- [kubebuilder-example](https://github.com/cedrickchee/kubebuilder-example), an example of building Kubernetes APIs using CRDs
+- [postgres-operator](https://github.com/cedrickchee/postgres-operator), a guide to deploy Postgres operator to k3s (local Kubernetes cluster)
+- [postgresql-consul-demo](https://github.com/cedrickchee/postgresql-consul-demo), a demo app showing PostgreSQL HA cluster managed by Patroni and Consul in Docker
+- [ClickHouse cluster](https://github.com/cedrickchee/clickhouse-cluster), a repo containing all the essential stuffs to set up ClickHouse cluster with sharding and replication
+- [Citus cluster](https://github.com/cedrickchee/citus-cluster), a PostgreSQL-based distributed database deployed locally
+    
 </details>
 
 🌱 **Learning:** writing, communication skills, [Computer Science](https://teachyourselfcs.com/), and meditation.
