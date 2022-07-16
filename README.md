@@ -10,9 +10,9 @@
 
 I **make people's lives easier with software**.
 
-I'm a **full stack engineer (backend focused)**, **hacker**, and **ex-entrepreneur** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. 👉
+I'm a **full stack engineer (backend focused)**, **hacker**, and **ex-entrepreneur** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. :point_right:
 
-I prefer [boring technology](http://boringtechnology.club/) and simple solutions over exciting technology and complex solutions.
+I prefer [boring technology](http://boringtechnology.club/) and simple solutions over exciting technology and complex solutions. I'm a [Grug Brained Developer](https://grugbrain.dev/) one way or another. :trollface:
 
 🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
 - [Skel](https://github.com/cedrickchee/skel), a starter kit for developing web backends in Go
