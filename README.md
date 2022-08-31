@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/145605/118441697-243ee100-b71c-11eb-87
 ---
 
 <p align="center">
-  :large_blue_diamond:&nbsp;<a href="https://gist.github.com/cedrickchee">Tech Blog</a>&nbsp;&nbsp;&nbsp;
+  :large_blue_diamond:&nbsp;<a href="https://prose.cedricchee.com">Tech Blog</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://cedricchee.com/blog">Personal Blog</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://www.linkedin.com/in/cedricchee/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://mstdn.io/@cedric_chee">Mastodon</a>&nbsp;&nbsp;&nbsp;
