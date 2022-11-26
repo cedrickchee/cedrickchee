@@ -22,6 +22,7 @@ I prefer [boring technology](http://boringtechnology.club/) and simple solutions
 - [RNNoise](https://github.com/cedrickchee/rnnoise-nodejs), a Node.js library for audio noise reduction
 - [painless-pg-node](https://github.com/cedrickchee/painless-pg-node), a boilerplate for painless PostgreSQL Node.js backend with Objection.js
 - [go-web-services](https://github.com/cedrickchee/go-web-services), a production-level Go web service boilerplate
+- [TaijiOS](https://github.com/cedrickchee/taijios), a hobby OS written in Rust for learning systems programming.
 
 <details>
 
