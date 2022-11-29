@@ -71,6 +71,10 @@ I prefer [boring technology](http://boringtechnology.club/) and simple solutions
 - CI/CD: GitHub Actions, CircleCI, GitOps
 - Systems: [Rust](https://github.com/cedrickchee?tab=repositories&q=&type=source&language=rust&sort=stargazers)
 
+Which languages have the most code on GitHub.
+    
+[![Most frequently used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cedrickchee&hide=jupyter%20notebook,html,css,scss,sass,hack,c%2B%2B,c,assembly,scilab,cuda,java,powershell,makefile,cmake,batchfile,objective-c,hcl&langs_count=15&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
 </details>
 
 [![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedrickchee&theme=gruvbox&count_private=true&show_icons=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
