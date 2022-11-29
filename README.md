@@ -70,13 +70,10 @@ I prefer [boring technology](http://boringtechnology.club/) and simple solutions
 - Infra: Container, [Kubernetes for application developer](https://gist.github.com/cedrickchee/da71414b7b04b2550a63ddd6b07289ee), Serverless applications/functions, Knative, FaaS
 - CI/CD: GitHub Actions, CircleCI, GitOps
 - Systems: [Rust](https://github.com/cedrickchee?tab=repositories&q=&type=source&language=rust&sort=stargazers)
+
 </details>
 
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
-    alt="GitHub stats"
-    width="400px"
-    height="160px" />
+[![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedrickchee&theme=gruvbox&count_private=true&show_icons=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 
@@ -86,7 +83,10 @@ https://user-images.githubusercontent.com/145605/118441697-243ee100-b71c-11eb-87
 
 </details>
 
+<!--
 ![Profile views](https://gpvc.arturio.dev/cedrickchee)
+-->
+
 <a href="https://twitter.com/intent/follow?screen_name=cedric_chee&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cedric_chee?label=follow%20me&style=social"></a>
 
 ---
