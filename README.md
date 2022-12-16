@@ -18,6 +18,8 @@ I've written in my blog about [my 16 years working in tech](https://cedricchee.c
 
 ---
 
+### Projects
+
 🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
 - [Skel](https://github.com/cedrickchee/skel), a starter kit for developing web backends in Go
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
@@ -56,6 +58,8 @@ I've written in my blog about [my 16 years working in tech](https://cedricchee.c
     
 </details>
 
+---
+
 🌱 **Learning:** writing, communication skills, [Computer Science](https://teachyourselfcs.com/), and meditation.
 
 :heart: **Passion (at night)**: independent Transformer/NLP research since 2019, reverse engineering/replicating and open sourcing ChatGPT, systems programming and Rust.
@@ -83,8 +87,14 @@ Which languages have the most code on GitHub.
 
 </details>
 
+<details>
+
+<summary>See GitHub stats</summary>
+    
 [![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedrickchee&theme=gruvbox&count_private=true&show_icons=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
+    
 <details>
 
 <summary>My GitHub story in 3D</summary>
