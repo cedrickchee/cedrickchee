@@ -10,7 +10,7 @@
 
 I **make people's lives easier with software**.
 
-I started my career as a **full stack** developer. I'm currently a **backend software engineer** and **AI engineer**. I was an **entrepreneur**, [Antler (VC+accelerator) alumni](https://antler.co), and fast.ai fellow. I have broad experience with product engineering at startups and consulting — building enterprise and consumer Internet applications for over a decade. I've **launched and maintained over 15 web/mobile apps and AI products worldwide**.
+I started my career as a **full stack** developer. I'm currently a **backend software engineer** and **AI engineer**. I was an **entrepreneur**, [Antler (VC+accelerator) alumni](https://antler.co), and [fast.ai fellow](https://cedricchee.com/blog/building-not-hot-dog-app-fastai-pytorch/). I have broad experience with product engineering at startups and consulting — building enterprise and consumer Internet applications for over a decade. I've **launched and maintained over 15 web/mobile apps and AI products worldwide**.
 
 I prefer [boring technology](http://boringtechnology.club/) and simple solutions over exciting technology and complex solutions. I'm a [Grug Brained Developer](https://grugbrain.dev/) one way or another. :trollface:
 
