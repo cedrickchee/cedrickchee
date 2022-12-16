@@ -14,6 +14,10 @@ I started my career as a **full stack** developer. I'm currently a **backend sof
 
 I prefer [boring technology](http://boringtechnology.club/) and simple solutions over exciting technology and complex solutions. I'm a [Grug Brained Developer](https://grugbrain.dev/) one way or another. :trollface:
 
+I've written in my blog about [my 16 years working in tech](https://cedricchee.com/blog/career-and-code-retreat-retro-16-years-working-in-tech/).
+
+---
+
 🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
 - [Skel](https://github.com/cedrickchee/skel), a starter kit for developing web backends in Go
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
