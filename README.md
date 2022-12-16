@@ -10,7 +10,7 @@
 
 I **make people's lives easier with software**.
 
-I'm a **full stack engineer (backend focused)**, **hacker**, and **ex-entrepreneur** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. :point_right:
+I started my career as a **full stack** developer. I'm currently a **backend software engineer** and **AI engineer**. I was an **entrepreneur**, [Antler (VC+accelerator) alumni](https://antler.co), and fast.ai fellow. I have broad experience with product engineering at startups and consulting — building enterprise and consumer Internet applications for over a decade. I've **launched and maintained over 15 web/mobile apps and AI products worldwide**.
 
 I prefer [boring technology](http://boringtechnology.club/) and simple solutions over exciting technology and complex solutions. I'm a [Grug Brained Developer](https://grugbrain.dev/) one way or another. :trollface:
 
@@ -53,6 +53,8 @@ I prefer [boring technology](http://boringtechnology.club/) and simple solutions
 </details>
 
 🌱 **Learning:** writing, communication skills, [Computer Science](https://teachyourselfcs.com/), and meditation.
+
+:heart: **Passion (at night)**: reverse engineering/replicating and open sourcing ChatGPT. systems programming and Rust.
 
 💬 **Ask me:** web development, ["boring" technology](http://boringtechnology.club/) :smile:, etc.
 
