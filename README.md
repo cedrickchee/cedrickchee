@@ -58,7 +58,7 @@ I've written in my blog about [my 16 years working in tech](https://cedricchee.c
 
 🌱 **Learning:** writing, communication skills, [Computer Science](https://teachyourselfcs.com/), and meditation.
 
-:heart: **Passion (at night)**: reverse engineering/replicating and open sourcing ChatGPT. systems programming and Rust.
+:heart: **Passion (at night)**: independent Transformer/NLP research since 2019, reverse engineering/replicating and open sourcing ChatGPT, systems programming and Rust.
 
 💬 **Ask me:** web development, ["boring" technology](http://boringtechnology.club/) :smile:, etc.
 
