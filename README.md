@@ -117,5 +117,6 @@ https://user-images.githubusercontent.com/145605/118441697-243ee100-b71c-11eb-87
   :large_blue_diamond:&nbsp;<a rel="me" href="https://mstdn.io/@cedric_chee">Mastodon</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a rel="me" href="https://cohost.org/cedric-chee">cohost</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a rel="me" href="https://forums.fast.ai/u/cedric/summary">Fast.AI</a>&nbsp;&nbsp;&nbsp;
-  :large_blue_diamond:&nbsp;<a href="https://sr.ht/~chi_/">sourcehut</a>
+  :large_blue_diamond:&nbsp;<a href="https://sr.ht/~chi_/">sourcehut</a>&nbsp;&nbsp;&nbsp;
+  :large_blue_diamond:&nbsp;<a href="https://codeberg.org/cedrickchee">Codeberg</a>
 </p>
