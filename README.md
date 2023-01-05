@@ -40,7 +40,7 @@ I've written in my blog about [my 16 years working in tech](https://cedricchee.c
 - [tdd-node-pg-knex](https://github.com/cedrickchee/tdd-node-pg-knex), TDD with Node.js and SQL
 - [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp), a curated list of NLP resources focused on Transformer, GPT, LLMs
 - [YDKGo](https://ydkgo.netlify.app/), a book I wrote on advanced Go programming
-- [Knowledge](https://github.com/cedrickchee/knowledge), my second "brain", digital garden, wiki
+- [InfoWarehouse](https://github.com/cedrickchee/src), my personal knowledge wiki
 - [experiments](https://github.com/cedrickchee/experiments), a collection of code snippets
 - [data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks), a Data Science Python notebooks
 - [capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch), a Capsule Network for PyTorch
